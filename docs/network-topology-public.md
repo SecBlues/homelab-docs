@@ -1,6 +1,6 @@
 # Home Lab Network Topology
 
-**Last Updated:** 2026-02  
+**Last Updated:** 2026-03
 **Status:** Active
 
 A reference document covering the network architecture of my home lab, including segmentation strategy, VLAN layout, key services, and firewall philosophy.
